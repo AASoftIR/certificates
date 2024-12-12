@@ -13,6 +13,16 @@ This is a Certificate for an Udemy course:Scottjehl - Web Components Demystified
 
 ---
 
+## 📜 ICDL
+
+**Alireza Mohebbi**  
+**Note:**  
+I need to scan the certificate documents and then upload them here. Please check back later for the updated content.
+**Explanation:**  
+This is a Certificate for ICDL Skills Exams.
+
+---
+
 ## 📜 JavaScript Algorithms and Data Structures
 
 **Alireza Mohebbi**  
