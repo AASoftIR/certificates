@@ -44,6 +44,15 @@ coursework.
 
 ---
 
+## 📜 CS50
+
+**Alireza Mohebbi**  
+![Certificate Image](./CS50/CS50x.png)  
+**Explanation:**  
+The CS50 2024 Course and I Finished it!
+
+---
+
 ## 🌟 About Me
 
 As you can see my name is: Alireza Mohebbi and currently at University in Computer Engineer field and passionate for learning and mostly **Web** and **LAMP Stack**. this is my website and i know it has flaws but at the moment I'm very busy with education but i definitely with re code it later 😙.
