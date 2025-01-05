@@ -7,7 +7,8 @@ Welcome to my portfolio of certificates! Here you'll find a collection of my ach
 ## 📜 Web Components
 
 **Alireza Mohebbi**  
-![Certificate Image](./web_components.png)  
+![Certificate Image](./Web%20Components/web_components.png)
+![FrontEnd Masters Version](./Web%20Components/web-components-dark-1.png)  
 **Explanation:**  
 This is a Certificate for an Udemy course:Scottjehl - Web Components Demystified 2024.
 
@@ -50,6 +51,96 @@ coursework.
 ![Certificate Image](./CS50/CS50x.png)  
 **Explanation:**  
 The CS50 2024 Course and I Finished it!
+
+---
+
+## 📜 Vim
+
+**Alireza Mohebbi**  
+![Certificate Image](./vim/vim-fundamentals-dark-1.png)  
+**Explanation:**  
+ThePrimeGean Vim Frontend Masters Course.
+
+---
+
+## 📜 Alpine
+
+**Alireza Mohebbi**  
+![Certificate Image](./Alpine/alpine.png)  
+**Explanation:**  
+The Scrimba Platform AlpineJS Course.
+
+---
+
+## 📜 AI Engineer
+
+**Alireza Mohebbi**  
+![Certificate Image](./Ai%20Engineer/AI%20Engineer%20Path.png)  
+**Explanation:**  
+The Scrimba Platform AI Engineer Course.
+
+---
+
+## 📜 Bulma CSS
+
+**Alireza Mohebbi**  
+![Certificate Image](./Bulma/bulma.png)  
+**Explanation:**  
+The Scrimba Platform Bulma Course.
+
+---
+
+## 📜 LangChain JS
+
+**Alireza Mohebbi**  
+![Certificate Image](./LangChain%20JS/LangChain.js.png)  
+**Explanation:**  
+The Scrimba Platform LangChain JS Course.
+
+---
+
+## 📜 Markdown
+
+**Alireza Mohebbi**  
+![Certificate Image](./Markdown/md.png)  
+**Explanation:**  
+The Scrimba Platform Markdown Course.
+
+---
+
+## 📜 Practical Math
+
+**Alireza Mohebbi**  
+![Certificate Image](./Practical%20Math%20for%20Frontend%20Developers/Practical%20Math%20for%20Frontend%20Developers.png)  
+**Explanation:**  
+The Scrimba Platform Practical Math Course.
+
+---
+
+## 📜 Python
+
+**Alireza Mohebbi**  
+![Certificate Image](./Python/Python.png)  
+**Explanation:**  
+The Scrimba Platform Python Course.
+
+---
+
+## 📜 Styled Components
+
+**Alireza Mohebbi**  
+![Certificate Image](./Styled%20Components/Styled%20Components.png)  
+**Explanation:**  
+The Scrimba Platform Styled Components Course.
+
+---
+
+## 📜 Tailwind CSS
+
+**Alireza Mohebbi**  
+![Certificate Image](./Tailwind%20CSS/Tailwind%20CSS.png)  
+**Explanation:**  
+The Scrimba Platform Tailwind CSS Course.
 
 ---
 
