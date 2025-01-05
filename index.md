@@ -1,4 +1,4 @@
-# 🎓 Certificates
+# 🎓 certificates
 
 ![View Count](https://komarev.com/ghpvc/?username=aasoftir&color=blue)
 
@@ -7,8 +7,8 @@ Welcome to my portfolio of certificates! Here you'll find a collection of my ach
 ## 📜 Web Components
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Web%20Components/web_components.png)
-![FrontEnd Masters Version](./Certificates/Web%20Components/web-components-dark-1.png)  
+![Certificate Image](./certificates/Web%20Components/web_components.png)
+![FrontEnd Masters Version](./certificates/Web%20Components/web-components-dark-1.png)  
 **Explanation:**  
 This is a Certificate for an Udemy course:Scottjehl - Web Components Demystified 2024.
 
@@ -27,7 +27,7 @@ This is a Certificate for ICDL Skills Exams.
 ## 📜 JavaScript Algorithms and Data Structures
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/FreeCodeCamp/js.png)  
+![Certificate Image](./certificates/FreeCodeCamp/js.png)  
 [View Certificate](https://freecodecamp.org/certification/aasoft/javascript-algorithms-and-data-structures)  
 **Explanation:**  
 JavaScript Algorithms and Data Structures Certificate from FreeCodeCamp with Developer Certification, representing approximately 300 hours of coursework.
@@ -37,7 +37,7 @@ JavaScript Algorithms and Data Structures Certificate from FreeCodeCamp with Dev
 ## 📜 Responsive Web Design
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/FreeCodeCamp/web_design.png)  
+![Certificate Image](./certificates/FreeCodeCamp/web_design.png)  
 [View Certificate](https://freecodecamp.org/certification/aasoft/responsive-web-design)  
 **Explanation:**  
 Responsive Web Design Certificate from FreeCodeCamp with Developer Certification, representing approximately 300 hours of
@@ -48,7 +48,7 @@ coursework.
 ## 📜 CS50
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/CS50/CS50x.png)  
+![Certificate Image](./certificates/CS50/CS50x.png)  
 **Explanation:**  
 The CS50 2024 Course and I Finished it!
 
@@ -57,7 +57,7 @@ The CS50 2024 Course and I Finished it!
 ## 📜 Vim
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/vim/vim-fundamentals-dark-1.png)  
+![Certificate Image](./certificates/vim/vim-fundamentals-dark-1.png)  
 **Explanation:**  
 ThePrimeGean Vim Frontend Masters Course.
 
@@ -66,7 +66,7 @@ ThePrimeGean Vim Frontend Masters Course.
 ## 📜 Alpine
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Alpine/alpine.png)  
+![Certificate Image](./certificates/Alpine/alpine.png)  
 **Explanation:**  
 The Scrimba Platform AlpineJS Course.
 
@@ -75,7 +75,7 @@ The Scrimba Platform AlpineJS Course.
 ## 📜 AI Engineer
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Ai%20Engineer/AI%20Engineer%20Path.png)  
+![Certificate Image](./certificates/Ai%20Engineer/AI%20Engineer%20Path.png)  
 **Explanation:**  
 The Scrimba Platform AI Engineer Course.
 
@@ -84,7 +84,7 @@ The Scrimba Platform AI Engineer Course.
 ## 📜 Bulma CSS
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Bulma/bulma.png)  
+![Certificate Image](./certificates/Bulma/bulma.png)  
 **Explanation:**  
 The Scrimba Platform Bulma Course.
 
@@ -93,7 +93,7 @@ The Scrimba Platform Bulma Course.
 ## 📜 LangChain JS
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/LangChain%20JS/LangChain.js.png)  
+![Certificate Image](./certificates/LangChain%20JS/LangChain.js.png)  
 **Explanation:**  
 The Scrimba Platform LangChain JS Course.
 
@@ -102,7 +102,7 @@ The Scrimba Platform LangChain JS Course.
 ## 📜 Markdown
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Markdown/md.png)  
+![Certificate Image](./certificates/Markdown/md.png)  
 **Explanation:**  
 The Scrimba Platform Markdown Course.
 
@@ -111,7 +111,7 @@ The Scrimba Platform Markdown Course.
 ## 📜 Practical Math
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Practical%20Math%20for%20Frontend%20Developers/Practical%20Math%20for%20Frontend%20Developers.png)  
+![Certificate Image](./certificates/Practical%20Math%20for%20Frontend%20Developers/Practical%20Math%20for%20Frontend%20Developers.png)  
 **Explanation:**  
 The Scrimba Platform Practical Math Course.
 
@@ -120,7 +120,7 @@ The Scrimba Platform Practical Math Course.
 ## 📜 Python
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Python/Python.png)  
+![Certificate Image](./certificates/Python/Python.png)  
 **Explanation:**  
 The Scrimba Platform Python Course.
 
@@ -129,7 +129,7 @@ The Scrimba Platform Python Course.
 ## 📜 Styled Components
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Styled%20Components/Styled%20Components.png)  
+![Certificate Image](./certificates/Styled%20Components/Styled%20Components.png)  
 **Explanation:**  
 The Scrimba Platform Styled Components Course.
 
@@ -138,7 +138,7 @@ The Scrimba Platform Styled Components Course.
 ## 📜 Tailwind CSS
 
 **Alireza Mohebbi**  
-![Certificate Image](./Certificates/Tailwind%20CSS/Tailwind%20CSS.png)  
+![Certificate Image](./certificates/Tailwind%20CSS/Tailwind%20CSS.png)  
 **Explanation:**  
 The Scrimba Platform Tailwind CSS Course.
 
